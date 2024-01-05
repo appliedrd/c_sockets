@@ -1,4 +1,4 @@
-# c_sockets
+# c_sockets CLION project
 # c_sockets
 
 ntp server from  
