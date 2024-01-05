@@ -1,0 +1,19 @@
+# ninja log v5
+2	543	1704455479856744000	build.ninja	79588bbd7d4bbeaf
+0	190	1704455453203379100	CMakeFiles/internet_time.dir/main.cpp.o	e90da2f3e8775d3b
+1015	1422	7261290786983005	internet_time.exe	a7c6f0d6dd193637
+0	32	1704455453044955500	CMakeFiles/internet_time.dir/time_server.c.o	268aeffc53deb215
+1	36	1704455479856744000	build.ninja	2f32c1053f08ce0
+1	54	1704455479918065900	internet_time	a8d5895a3e3ea62
+1	32	1704455550635502900	CMakeFiles/internet_time.dir/time_server.c.o	268aeffc53deb215
+32	100	1704455550701751100	internet_time	a8d5895a3e3ea62
+1	31	1704455697567606500	CMakeFiles/internet_time.dir/time_server.c.o	268aeffc53deb215
+32	99	1704455697633554000	internet_time	a8d5895a3e3ea62
+1	31	1704456025777311300	CMakeFiles/internet_time.dir/time_server.c.o	268aeffc53deb215
+31	84	1704456025829034800	internet_time	a8d5895a3e3ea62
+1	31	1704456189680739600	CMakeFiles/internet_time.dir/time_server.c.o	268aeffc53deb215
+32	82	1704456189730037800	internet_time	a8d5895a3e3ea62
+1	32	1704457229026951700	CMakeFiles/internet_time.dir/time_server.c.o	268aeffc53deb215
+32	86	1704457229079438300	internet_time	a8d5895a3e3ea62
+1	33	1704457289659423400	CMakeFiles/internet_time.dir/time_server.c.o	268aeffc53deb215
+33	85	1704457289709714800	internet_time	a8d5895a3e3ea62
