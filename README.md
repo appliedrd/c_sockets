@@ -1,4 +1,4 @@
-# c_sockets CLION project
+# c_sockets CLION project (Linux - for windows you need winsock)
 # c_sockets
 
 ntp server from  
